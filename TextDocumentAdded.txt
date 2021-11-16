@@ -6,3 +6,4 @@ This is weird. I am in DevBranch 2nd commit
 Awesome
 Awesome 
 This is weird. I am in DevBranch 4th commit
+Now I want to merge with Main And Push to Remote
