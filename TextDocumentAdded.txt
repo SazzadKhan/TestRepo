@@ -3,3 +3,6 @@ Awesome
 This is weird. I am in DevBranch 2nd commit
 This is weird. I am in DevBranch 2nd commit
 This is weird. I am in DevBranch 2nd commit
+Awesome
+Awesome 
+This is weird. I am in DevBranch 4th commit
